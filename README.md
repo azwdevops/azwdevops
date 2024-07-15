@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a passionate Fullstack Engineer with over 3 years of experience in developing dynamic and responsive web applications. 
+I'm Zachary, a passionate Fullstack Engineer with over 3 years of experience in developing dynamic and responsive web applications. 
 My diverse skill set includes an understanding of both frontend and backend technologies, cloud infrastructure, and automation tools as below:
 
 ### 🚀 Development Technologies
