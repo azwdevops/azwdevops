@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+I'm a passionate Fullstack Engineer with over 3 years of experience in developing dynamic and responsive web applications. My diverse skill set includes an understanding of both frontend and backend technologies, cloud infrastructure, and automation tools as below:
+
+### 🚀 Development Technologies
+Languages: Javascript, Python, Typescript
+Frontend: ReactJs, Redux, React Native
+Backend: Python/Django, NodeJs/Express
+Databases: PostgreSQL, MySQL, MongoDB
+### 🔧 Automation & Version Control
+Ansible, Terraform
+Git, Docker, GitHub
+### ☁️ Cloud Expertise
+AWS (VPC, Networking, EC2, S3, ECR & ECS, RDS, Autoscaling, IAM/Permissions, Load balancing)
+Jira, Sentry
 <!--
 **azwdevops/azwdevops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
